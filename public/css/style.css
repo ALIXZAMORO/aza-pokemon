@@ -1,5 +1,5 @@
 body {
-    background: #c14040;
+    background: #0d946b;
     color: #FFF;
     font-family: 'Bree Serif', serif;
     padding: 0;
@@ -33,7 +33,7 @@ img {
 }
 
 header a, header a:visited {
-    color: #c14040;
+    color: #4049c1;
 }
 header {
     margin: 1rem 0;
@@ -66,11 +66,11 @@ header ul li {
 .main_list li {
     text-align: center;
     border-radius: 30px;
-    background: #982c2c;
+    background: #4049c1;
     transition: .3s ease all;
 } 
 .main_list li:hover {
-    background: #ab3838;
+    background: #934fb3;
 }
 .main_list li a {
     padding: 1rem;
@@ -95,7 +95,7 @@ h1 {
     text-align: center;
 }
 .right_side {
-    background: #ab3838;
+    background: #09008d;
     border-radius: 10px;
     padding: 1rem;
 }
